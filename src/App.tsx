@@ -1,4 +1,4 @@
-import React, { useState, type FormEvent } from "react";
+import  { useState, type FormEvent } from "react";
 import type { Todo } from "./types";
 import TaskItem from "./components/TaskItem";
 
